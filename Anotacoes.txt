@@ -4,6 +4,9 @@ Comandos
 Logar no github com chave SSH
 ssh-keygen -t ed25519 -C geisonbsantos@hotmail.com
 
+Criando nova Branch
+
+1- git checkout -b "nome da branch"
 
 Clonando repositório do GitHub
 
